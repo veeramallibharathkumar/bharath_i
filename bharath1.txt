@@ -1,0 +1,1 @@
+To get the lastest code from the remote repository we use git pull command
